@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ingenico.technicalAssessment.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 66.232 sec

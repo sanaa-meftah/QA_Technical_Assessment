@@ -1,0 +1,4 @@
+com\ingenico\technicalAssessment\seleniumgluecode\TestHostedCheckoutWrongSignature.class
+com\ingenico\technicalAssessment\seleniumgluecode\TestHostedCheckoutBadRequest.class
+com\ingenico\technicalAssessment\seleniumgluecode\TestHostedCheckoutSuccess.class
+com\ingenico\technicalAssessment\runner\TestRunner.class
